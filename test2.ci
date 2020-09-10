@@ -1,0 +1,28 @@
+program x{
+	declare a,b, aaa, A, aaaa enddeclare
+	
+	function f(in c, inout t){
+		declare aa, c enddeclare
+
+		procedure p(){}
+		procedure ffff(){}
+		return(1);
+	}
+	print(a);
+	\*if(a>0 and aa>10 or aaa> 100) a:= 2;
+	;if ([aa>0 or bb>10] and cc> 100 and dd> 1000 or ee>10000) A:= 100; else b:=300;*\
+	do if(a=3) {a:= a + 2; a:= a +2; aaa:= a +2;}; while(a>2);
+	if (a>0 and b>333) {if(b>44 and a>55 or a<10) ; else b:=30;} else a:=3999;;
+	if (a>4)a:= 100 ; else A:= 30;
+	while(aaaa>333) A:=30;
+	;select(A)
+		1: ;
+		2: a:=30;
+		default: A:=30;
+		
+		;
+		print(A);
+		print(a);
+		print(a + 10);
+
+}

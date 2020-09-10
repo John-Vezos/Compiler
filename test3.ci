@@ -1,0 +1,37 @@
+program x{
+	function f(){ procedure X() {function Z() {return(2);}}return(1);}
+	
+	\*if(a>0 and aa>10 or aaa> 100) a:= 2;
+	;if ([aa>0 or bb>10] and cc> 100 and dd> 1000 or ee>10000) A:= 100; else b:=300;
+	do if(a=3) a:= a + 2;; while(a>2);
+	if (a>0 and b>333) {if(b>44 and a>55 or a<10) ; else b:=30;} else a:=3999;;
+	if (a>4)a:= 100 ; else A:= 30;
+	while(aaaa>333) A:=30;*\
+	select(A)
+		1: lala:=23;
+		2: a:=30;
+		default: A:=30;
+		;
+	while (aa>22) {
+		do {
+			while (asd > 9) { 
+				a:=3;
+				if (a>3) do {A:=2312; exit;}while(a>3);
+				
+			}; 
+			if (a>3)
+				exit;
+		} while(a>2); 
+	};
+	\*if (bb> 0 or b>100 and asd>90 and asdasd>123 and asd1111>123 and ssas1>32 and a123123>23 and asdasd3123>0 and ba>0) A:=30; else a:=40;
+	if (not[uuu> 10] and aa > 9 or bbb>100 and b>3 or c>10 and Csa> 1000) A:=30; else a:=40;
+	
+	if ([[[a>2] and a>33] and asd>0]) ppp:= 12; else else1:=30;
+
+	;do
+	if (a>2) do exit; while(a>2);;
+	
+	while(a>2);*\
+
+}
+
